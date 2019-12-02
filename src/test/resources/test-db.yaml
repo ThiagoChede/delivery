@@ -1,0 +1,4 @@
+database.url=jdbc:postgresql://localhost:5432/entrega
+database.driver=org.postgresql
+database.user=postgres
+database.password=shadowfiter
